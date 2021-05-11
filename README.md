@@ -5,7 +5,7 @@
 
 A Full-stack Todo application built with VueJs + vuedraggable + Node(Express) + MongoDB.
 
-# Fron-end Build Setup
+# Front-end Build Setup
 
 ## install dependencies
 npm install
